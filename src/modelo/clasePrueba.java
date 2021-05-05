@@ -6,4 +6,5 @@ public class clasePrueba {
 		// TODO Auto-generated constructor stub
 	}
 holaaaa;
+holaaa
 }
